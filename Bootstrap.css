@@ -1,0 +1,60 @@
+.mynav {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.brand {
+  float: left;
+  margin-right: 5rem;
+}
+
+.select {
+  height: 2em;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.nav-select {
+  align-content: center;
+  margin-right: 2rem;
+  padding-left: 2rem;
+ 
+}
+
+.logo {
+  border-radius: 5rem;
+  border: 2px solid orange;
+  opacity: 0.5;
+}
+
+.learn {
+  font-size: 3rem;
+  padding: 0 5rem;
+}
+
+.2row {
+  height: 100%;
+}
+
+input {
+  height: 2.5rem;
+  width: 80%;
+  border-radius: 3rem;
+  border: none;
+}
+
+button {
+  height: 2.5rem;
+  width: 70%;
+  border: none;
+  border-radius: 3rem;
+  margin-top: 3rem;
+}
+
+.myborder {
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px 3px black;
+}
